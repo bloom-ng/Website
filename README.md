@@ -2,7 +2,7 @@
 
 ------------------
 
-Bloom Frontend Design
+[Bloom Frontend Design](bloompage.netlify.app "Preview Site")
 
 
 **Initial Set up**
