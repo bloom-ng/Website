@@ -1,0 +1,90 @@
+/* We are bloom */
+
+position: absolute;
+width: 1246px;
+height: 527px;
+left: 96px;
+top: 772px;
+
+
+
+/* Rectangle 27 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1246px;
+height: 527px;
+left: 96px;
+top: 772px;
+
+background: rgba(0, 0, 0, 0.1);
+box-shadow: 0px 11px 100px rgba(255, 129, 0, 0.05);
+backdrop-filter: blur(50px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* WE ARE BLOOM */
+
+position: absolute;
+width: 343px;
+height: 49px;
+left: 547px;
+top: 904px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* We help create digital experiences through...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non dictum cras amet, ac sit vitae id tellus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Non dictum cras amet, ac sit vitae id tellus. */
+
+position: absolute;
+width: 1109px;
+height: 176px;
+left: 163px;
+top: 1041px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+
+color: #FFFFFF;
+
+
+
+/* Vector 1 */
+
+position: absolute;
+width: 242px;
+height: 0px;
+left: 598px;
+top: 985px;
+
+border: 1px solid #FF8100;
+
+
+
+/* Rectangle 27 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 1246px;
+height: 527px;
+left: 96px;
+top: 772px;
+
+background: rgba(0, 0, 0, 0.1);
+box-shadow: 0px 11px 100px rgba(255, 129, 0, 0.05);
+backdrop-filter: blur(50px);
+/* Note: backdrop-filter has minimal browser support */
