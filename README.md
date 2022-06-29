@@ -46,8 +46,8 @@ Please custom styles should be avoided as much as possible but if absolutely ess
 ****Page List Done****
 ======================
 
- .[]. Homepage
- .[_]. About page
+- .[ ]. Homepage
+- .[_]. About page
 - .[_]. Blog page
 - .[_]. Service page
 - .[_]. Our works
