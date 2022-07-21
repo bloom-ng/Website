@@ -1,0 +1,1 @@
+I wrote the pages styling majorly in CSS due to the designs complexity. Every styles are well defined.
