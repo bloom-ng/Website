@@ -2,12 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-* {
-  padding: 0;
-  margin: 0;
-  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
-    "Lucida Sans", Arial, sans-serif;
-}
+
 
 /* CUSTOM STYLES */
 .box-border-gradient {
@@ -25,78 +20,9 @@
   border-width: 1px;
 }
 
-#id {
-  margin-left: 0px;
-}
-#id li {
-  margin-left: 70px;
-}
-.hero {
-  display: flex;
-}
-.hero-img {
-  margin-left: 50px;
-  margin-top: 100px;
-  border: 0.5px solid #ffffff;
-  padding: 30px 30px;
-  border-bottom: 0;
-  border-right: 0;
-  height: 450px;
-}
-.links {
-  margin-top: 250px;
-  margin-left: 50px;
-  background: none;
-}
-.link {
-  margin-bottom: 50px;
-}
-.link-text {
-  color: #ff8100;
-  transform: rotate(270deg);
-  font-weight: bolder;
-}
-.text {
-  color: #ff8100;
-  font-weight: 500;
-  display: flex;
-  margin-top: -200px;
-  margin-left: 216px;
-}
-#svg {
-  color: #ff8100;
-}
-.clients {
-  margin-left: 200px;
-  margin-top: 200px;
-}
-.client0 {
-  width: 400.01px;
-  height: 400.01px;
-  border-radius: 50%;
-  background-color: white;
-}
-.hero-img1 {
-  padding-top: 50px;
-  width: auto;
-  margin-left: 10px;
-  position: absolute;
-  background: #ff8100;
-  width: 393.01px;
-  height: 393.01px;
-  border-radius: 50%;
-}
-.bloom {
-  margin-top: 70px;
-  margin-left: -50px;
-}
-.whatsapp {
-  margin-top: 60vh;
-  margin-left: -60px;
-}
 .content {
   display: flex;
-  margin-top: 300px;
+  margin-top: 30px;
 }
 .left {
   margin-top: -290px;
