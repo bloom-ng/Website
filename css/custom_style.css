@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,700&display=swap');
 * {
   font-family: 'Source Sans Pro', sans-serif;
-  overflow-x: hidden;
+ 
   
 }
 
@@ -12,6 +12,14 @@
     -o-border-image: linear-gradient(rgb(255, 129, 0), rgb(73, 49, 25), transparent)
       1;
        border-image: linear-gradient(rgb(255, 129, 0), rgb(73, 49, 25), transparent)
+      1;
+  }
+.box-border-gradient2 {
+    border-width: 1px;
+    border-style: solid;
+    -o-border-image: linear-gradient(rgb(198, 196, 194), rgb(74, 71, 69), transparent)
+      1;
+       border-image: linear-gradient(rgb(198, 196, 194), rgb(74, 71, 69), transparent)
       1;
   }
   
@@ -207,7 +215,7 @@
   }
   
   .talk-text {
-    font-size: 40px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 61px;
   }
@@ -224,7 +232,7 @@
     color: #ff8100;
     font-weight: 700;
     font-size: 15px;
-    padding: 15px 30px;
+    padding: 20px 50px;
   }
   
   .services {
@@ -504,7 +512,7 @@
   }
   
   .web-green {
-    margin-top: -120px;
+    margin-top: -300px;
     margin-left: 85vw;
     background: none;
   }
@@ -919,7 +927,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      margin-bottom: 40px;
+      margin-bottom: 20px;
     }
   
     .services-h1 {
