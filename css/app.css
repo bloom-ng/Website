@@ -3,6 +3,12 @@
 @tailwind utilities;
 
 
+@font-face {
+	font-family: "grotesk";
+	src: url("../assets/Schibsted_Grotesk/SchibstedGrotesk.ttf");
+}
+
+
 
 /* CUSTOM STYLES */
 .box-border-gradient {

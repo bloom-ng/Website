@@ -8,12 +8,14 @@ module.exports = {
         'bloom-orange' : '#FF8100',
       },
       fontFamily: {
-        sans: ['Montserrat', 'sans-serif'],
+        grotesk: ['grotesk', 'sans-serif'],
+        
       }
     },
     
     
   },
+
   plugins: [
     require('@tailwindcss/aspect-ratio'),
   ],
